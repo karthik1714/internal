@@ -11,11 +11,11 @@ This repository contains **C language** implementations of fundamental concepts 
 ## Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/karthiksriramoju/internal.git
+   git clone https://github.com/karthiksriramoju/cn-os-internal.git
    ```
 2. Navigate to the directory:
    ```sh
-   cd internal
+   cd cn-os-internal
    ```
 3. Compile and run a program:
    ```sh
